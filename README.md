@@ -12,7 +12,7 @@
 world-cup-2026-pro/
 ├── README.md
 ├── .claude/skills/
-│   ├── work-cup-2026/          ← 分析预测 Skill
+│   ├── world-cup-2026-pro/      ← 分析预测 Skill
 │   │   ├── SKILL.md              v6 量化框架（545行·30组件）
 │   │   ├── 16-data.md            1/8 决赛对阵 · 🆕
 │   │   ├── 32-data.md            1/16 决赛对阵
