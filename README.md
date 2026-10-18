@@ -252,11 +252,6 @@ world-cup-2026-pro/
 验证一下 [附实际比分]       → 赛后结算盈亏
 ```
 
----
-
-## Fork
-
-Forked from [ZhangCraigXG/work-cup-2026](https://github.com/ZhangCraigXG/work-cup-2026)，基础 prompt 用于小组赛阶段。16 场 1/16 实盘验证后从单流程 prompt 进化为独立量化框架，24 场后回归简单。
 
 ---
 
